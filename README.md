@@ -18,5 +18,10 @@ Following paragraph contains general decision making process decomposition with 
 1. We need to decide the name for new application.
     * Application manages sharing cars. Selecting, using, paying.
     * The name shouldn't be related to any animal, already used, longer than 8 characters.
-    * The name shouldn§t contain punctuation
+    * The name shouldn't contain punctuation
     * The name should be well pronounced
+2. Write down names which comes to your mind
+3. Categorize them by kind of use. As category name use kind of use, specific name or composition of initial letters
+4. Write down category name and limitations on cards, make arrow connection between limitation and category name if matching. Category name with most connections is selected name => final decision.
+
+TODO list specific techniques, add used techniques to example.
