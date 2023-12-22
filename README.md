@@ -66,3 +66,5 @@ Force field analysis - evaluation of introducing the change by evaluation of for
 
 5 whys - 5 why questions is asked in a row starting from the initial problem (Why it happend?) and continuing with asking to previous answer. Last answer is root cause of the problem.
 
+## Conclusion
+At first sight, formalising the decision making process looked boring to me, but after creating this recherche I can say that mind mapping and 5 Whys techniques are interesting and can be used for decision making and problem solving in real life situations - not only in software development.
