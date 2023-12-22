@@ -25,38 +25,38 @@ The following section contains a general decomposition of the decision making pr
 3. Categorise them by kind of use. As category name use kind of use, specific name or composition of initial letters. Using affinity diagrams.
 4. Write down category name and limitations on cards, make arrow connection between limitation and category name if related. Category name with most connections is chosen => final decision. Using interrelationship diagram.
 
-# Suggested methods to cover decision making process sub-areas
+# Suggested methods to cover sub-areas of the decision-making process
 
 ## Brainstorming (for collecting ideas)
 Starting point of decision making, collect ideas, individual or group technique.
-**Goal: Collect ideas how to make (realize) a decision**
+**Goal: Collect ideas how to make (realise) a decision**
 Steps:
 * Clearly define the decision
-* Make decision definition always visible - on board
-* Define limitation to collect ideas - time or count
+* Make the decision definition always visible - on board
+* Define limits for collecting ideas - time or count
 
 ## Afinity diagrams
-Helpful for categorization of lot of ideas. Individual or group technique.
+Helpful for categorization lots of ideas. Individual or group technique.
 **Goal: Group collected ideas into logical groups facilitating making decision over group**
 Steps:
 * Group collected ideas by each member
-* Discuss grouping in team
+* Discuss grouping as a team
 * Groups are named - by collective agreement, majority (more than half voted), plurarity (highest number of votes)
 
 ## Mind mapping
-Especially helpful for individual problem solving. Helps to make decision which problem has to be solved first. Visualize connection between thoughts and data.
-**Goal: Visualization as a whole (problem) helps the human brain to understand the problem and focus on important parts of the problem. Shade out details from main ideas.**
+Especially helpful for individual problem solving. Helps to make decision which problem has to be solved first. Visualises the relationship between thoughts and data.
+**Goal: Visualisation as a whole (problem) helps the human brain to understand the problem and focus on important parts of the problem. Shade out details from main ideas.**
 Steps:
-* Write main problem to the center of the paper
-* First thoughts (subproblems) related to the main problem are visualized thick line labeled by description of subproblem = branch
+* Write the main problem in the center of the paper
+* First thoughts (subproblems) related to the main problem are visualised thick line labelled by description of subproblem = branch
 * Each branch by different color
-* Using images increases visualization
-* Further thougths related to sub-problem comming from sub-problem node by thinner line
+* Use of images enhances visualisation
+* Further thoughts related to sub-problem comming from sub-problem node by thinner line
 
 ## Other decision making techniques:
-Group passing - problem solving idea is passed through group of people, each one improves suggestion of previous.
+Group passing - problem solving idea is passed through group of people, each one improving on the previous suggestion.
 
-Steplaader - first problem solving idea is discussed in core group (2), in each step core group is extended with further member which presents his/her idea first.
+Stepladder - first problem solving idea is discussed in core group (2 members), at each step core group is expanded by another member who presents his/her idea first.
 
 Interrelationship diagram - determine the root cause of the problem, sub-problems relationship diagram is created - reations between subproblems are determined and visualized by arrows => root cause is the sub-problem with highest number of output relations (arrows).
 
@@ -64,5 +64,5 @@ Fishbone diagram - determine the root causes, sub-problems are categorized (main
 
 Force field analysis - evaluation of introducing the change by evaluation of for or against forces.
 
-5 whys - 5 why questions is asked in a row starting from initial problem (Why it happend?) and cotinuing with asking to previous answer. Last answer is root cause of the problem.
+5 whys - 5 why questions is asked in a row starting from the initial problem (Why it happend?) and continuing with asking to previous answer. Last answer is root cause of the problem.
 
