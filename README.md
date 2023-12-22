@@ -53,6 +53,8 @@ Steps:
 * Use of images enhances visualisation
 * Further thoughts related to sub-problem comming from sub-problem node by thinner line
 
+![image](https://github.com/skrecc/DecisionMakingSkills/assets/31956094/d10ece66-ed5d-450d-b56c-5665f592a280)
+
 ## Other decision making techniques:
 Group passing - problem solving idea is passed through group of people, each one improving on the previous suggestion.
 
