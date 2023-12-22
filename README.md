@@ -7,7 +7,7 @@ As an example I use - make a decision how to name the new application.
 
 Following paragraph contains general decision making process decomposition with suggested techniques how to cover each sub-part. Most important techniques are decribed more in detail below.
 
-# Decision making (= problem solving) general process:
+## Decision making (= problem solving) general process:
 1. Clearly define the decision which needs to be make.
    * Definition has to contain also limitations if they are present. Budget, time, resources.
 2. Collecting ideas - brainstorming.
@@ -55,6 +55,7 @@ Steps:
 
 ## Other decision making techniques:
 Group passing - problem solving idea is passed through group of people, each one improves suggestion of previous.
+
 Steplaader - first problem solving idea is discussed in core group (2), in each step core group is extended with further member which presents his/her idea first.
 Interrelationship diagram - determine the root cause of the problem, sub-problems relationship diagram is created - reations between subproblems are determined and visualized by arrows => root cause is the sub-problem with highest number of output relations (arrows).
 Fishbone diagram - determine the root causes, sub-problems are categorized (main bones), 5 whys is asked to each category to get root cause => categories root causes are root causes of the problem.
